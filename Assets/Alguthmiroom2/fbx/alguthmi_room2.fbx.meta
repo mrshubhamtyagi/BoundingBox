@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: f9d33be61527daa48a86b11a52689831
+timeCreated: 1606827448
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: back wall
+    100004: book_01
+    100006: carpet
+    100008: center_table
+    100010: curtain_01
+    100012: curtain_02
+    100014: curtain_03
+    100016: double_seater_back
+    100018: double_seater_backrest
+    100020: double_seater_cushion01
+    100022: double_seater_cushion01_back
+    100024: double_seater_cushion01_front
+    100026: double_seater_cushion02
+    100028: double_seater_cushion02_back
+    100030: double_seater_cushion02_front
+    100032: double_seater_cushion03
+    100034: double_seater_cushion03_back
+    100036: double_seater_cushion03_front
+    100038: double_seater_cushion04
+    100040: double_seater_cushion04_back
+    100042: double_seater_cushion04_front
+    100044: double_seater_legs
+    100046: double_seater_metal_balls
+    100048: double_seater_seat
+    100050: double_seater_sofa
+    100052: floor
+    100054: frame
+    100056: front wall
+    100058: hanging_light
+    100060: hanging_light_MeshPart0
+    100062: hanging_light_MeshPart1
+    100064: hanging_light_MeshPart2
+    100066: left wall
+    100068: outer_wall
+    100070: painting01
+    100072: painting02
+    100074: painting03
+    100076: plant01
+    100078: plant01_MeshPart0
+    100080: plant01_MeshPart1
+    100082: right wall
+    100084: roof
+    100086: single_seater_back
+    100088: single_seater_backrest
+    100090: single_seater_cushion01
+    100092: single_seater_cushion01_back
+    100094: single_seater_cushion01_front
+    100096: single_seater_cushion02
+    100098: single_seater_cushion02_back
+    100100: single_seater_cushion02_front
+    100102: single_seater_legs
+    100104: single_seater_metal_balls
+    100106: single_seater_seat
+    100108: single_seater_sofa
+    100110: triple_seater_back
+    100112: triple_seater_backrest
+    100114: triple_seater_backrest_MeshPart0
+    100116: triple_seater_backrest_MeshPart1
+    100118: triple_seater_cushion01
+    100120: triple_seater_cushion01_back
+    100122: triple_seater_cushion01_front
+    100124: triple_seater_cushion02
+    100126: triple_seater_cushion02_back
+    100128: triple_seater_cushion02_front
+    100130: triple_seater_cushion03
+    100132: triple_seater_cushion04
+    100134: triple_seater_cushion04_back
+    100136: triple_seater_cushion04_front
+    100138: triple_seater_cushion05
+    100140: triple_seater_cushion05_back
+    100142: triple_seater_cushion05_front
+    100144: triple_seater_legs
+    100146: triple_seater_metal_balls
+    100148: triple_seater_seat
+    100150: triple_seater_sofa
+    100152: window_frame
+    100154: window_roof
+    400000: //RootNode
+    400002: back wall
+    400004: book_01
+    400006: carpet
+    400008: center_table
+    400010: curtain_01
+    400012: curtain_02
+    400014: curtain_03
+    400016: double_seater_back
+    400018: double_seater_backrest
+    400020: double_seater_cushion01
+    400022: double_seater_cushion01_back
+    400024: double_seater_cushion01_front
+    400026: double_seater_cushion02
+    400028: double_seater_cushion02_back
+    400030: double_seater_cushion02_front
+    400032: double_seater_cushion03
+    400034: double_seater_cushion03_back
+    400036: double_seater_cushion03_front
+    400038: double_seater_cushion04
+    400040: double_seater_cushion04_back
+    400042: double_seater_cushion04_front
+    400044: double_seater_legs
+    400046: double_seater_metal_balls
+    400048: double_seater_seat
+    400050: double_seater_sofa
+    400052: floor
+    400054: frame
+    400056: front wall
+    400058: hanging_light
+    400060: hanging_light_MeshPart0
+    400062: hanging_light_MeshPart1
+    400064: hanging_light_MeshPart2
+    400066: left wall
+    400068: outer_wall
+    400070: painting01
+    400072: painting02
+    400074: painting03
+    400076: plant01
+    400078: plant01_MeshPart0
+    400080: plant01_MeshPart1
+    400082: right wall
+    400084: roof
+    400086: single_seater_back
+    400088: single_seater_backrest
+    400090: single_seater_cushion01
+    400092: single_seater_cushion01_back
+    400094: single_seater_cushion01_front
+    400096: single_seater_cushion02
+    400098: single_seater_cushion02_back
+    400100: single_seater_cushion02_front
+    400102: single_seater_legs
+    400104: single_seater_metal_balls
+    400106: single_seater_seat
+    400108: single_seater_sofa
+    400110: triple_seater_back
+    400112: triple_seater_backrest
+    400114: triple_seater_backrest_MeshPart0
+    400116: triple_seater_backrest_MeshPart1
+    400118: triple_seater_cushion01
+    400120: triple_seater_cushion01_back
+    400122: triple_seater_cushion01_front
+    400124: triple_seater_cushion02
+    400126: triple_seater_cushion02_back
+    400128: triple_seater_cushion02_front
+    400130: triple_seater_cushion03
+    400132: triple_seater_cushion04
+    400134: triple_seater_cushion04_back
+    400136: triple_seater_cushion04_front
+    400138: triple_seater_cushion05
+    400140: triple_seater_cushion05_back
+    400142: triple_seater_cushion05_front
+    400144: triple_seater_legs
+    400146: triple_seater_metal_balls
+    400148: triple_seater_seat
+    400150: triple_seater_sofa
+    400152: window_frame
+    400154: window_roof
+    2300000: back wall
+    2300002: book_01
+    2300004: carpet
+    2300006: center_table
+    2300008: curtain_01
+    2300010: curtain_02
+    2300012: curtain_03
+    2300014: double_seater_back
+    2300016: double_seater_backrest
+    2300018: double_seater_cushion01_back
+    2300020: double_seater_cushion01_front
+    2300022: double_seater_cushion02_back
+    2300024: double_seater_cushion02_front
+    2300026: double_seater_cushion03_back
+    2300028: double_seater_cushion03_front
+    2300030: double_seater_cushion04_back
+    2300032: double_seater_cushion04_front
+    2300034: double_seater_legs
+    2300036: double_seater_metal_balls
+    2300038: double_seater_seat
+    2300040: floor
+    2300042: frame
+    2300044: front wall
+    2300046: hanging_light_MeshPart0
+    2300048: hanging_light_MeshPart1
+    2300050: hanging_light_MeshPart2
+    2300052: left wall
+    2300054: outer_wall
+    2300056: painting01
+    2300058: painting02
+    2300060: painting03
+    2300062: plant01_MeshPart0
+    2300064: plant01_MeshPart1
+    2300066: right wall
+    2300068: roof
+    2300070: single_seater_back
+    2300072: single_seater_backrest
+    2300074: single_seater_cushion01_back
+    2300076: single_seater_cushion01_front
+    2300078: single_seater_cushion02_back
+    2300080: single_seater_cushion02_front
+    2300082: single_seater_legs
+    2300084: single_seater_metal_balls
+    2300086: single_seater_seat
+    2300088: triple_seater_back
+    2300090: triple_seater_backrest_MeshPart0
+    2300092: triple_seater_backrest_MeshPart1
+    2300094: triple_seater_cushion01_back
+    2300096: triple_seater_cushion01_front
+    2300098: triple_seater_cushion02_back
+    2300100: triple_seater_cushion02_front
+    2300102: triple_seater_cushion03
+    2300104: triple_seater_cushion04_back
+    2300106: triple_seater_cushion04_front
+    2300108: triple_seater_cushion05_back
+    2300110: triple_seater_cushion05_front
+    2300112: triple_seater_legs
+    2300114: triple_seater_metal_balls
+    2300116: triple_seater_seat
+    2300118: window_frame
+    2300120: window_roof
+    3300000: back wall
+    3300002: book_01
+    3300004: carpet
+    3300006: center_table
+    3300008: curtain_01
+    3300010: curtain_02
+    3300012: curtain_03
+    3300014: double_seater_back
+    3300016: double_seater_backrest
+    3300018: double_seater_cushion01_back
+    3300020: double_seater_cushion01_front
+    3300022: double_seater_cushion02_back
+    3300024: double_seater_cushion02_front
+    3300026: double_seater_cushion03_back
+    3300028: double_seater_cushion03_front
+    3300030: double_seater_cushion04_back
+    3300032: double_seater_cushion04_front
+    3300034: double_seater_legs
+    3300036: double_seater_metal_balls
+    3300038: double_seater_seat
+    3300040: floor
+    3300042: frame
+    3300044: front wall
+    3300046: hanging_light_MeshPart0
+    3300048: hanging_light_MeshPart1
+    3300050: hanging_light_MeshPart2
+    3300052: left wall
+    3300054: outer_wall
+    3300056: painting01
+    3300058: painting02
+    3300060: painting03
+    3300062: plant01_MeshPart0
+    3300064: plant01_MeshPart1
+    3300066: right wall
+    3300068: roof
+    3300070: single_seater_back
+    3300072: single_seater_backrest
+    3300074: single_seater_cushion01_back
+    3300076: single_seater_cushion01_front
+    3300078: single_seater_cushion02_back
+    3300080: single_seater_cushion02_front
+    3300082: single_seater_legs
+    3300084: single_seater_metal_balls
+    3300086: single_seater_seat
+    3300088: triple_seater_back
+    3300090: triple_seater_backrest_MeshPart0
+    3300092: triple_seater_backrest_MeshPart1
+    3300094: triple_seater_cushion01_back
+    3300096: triple_seater_cushion01_front
+    3300098: triple_seater_cushion02_back
+    3300100: triple_seater_cushion02_front
+    3300102: triple_seater_cushion03
+    3300104: triple_seater_cushion04_back
+    3300106: triple_seater_cushion04_front
+    3300108: triple_seater_cushion05_back
+    3300110: triple_seater_cushion05_front
+    3300112: triple_seater_legs
+    3300114: triple_seater_metal_balls
+    3300116: triple_seater_seat
+    3300118: window_frame
+    3300120: window_roof
+    4300000: outer_wall
+    4300002: front wall
+    4300004: back wall
+    4300006: carpet
+    4300008: frame
+    4300010: floor
+    4300012: roof
+    4300014: right wall
+    4300016: plant01_MeshPart0
+    4300018: plant01_MeshPart1
+    4300020: hanging_light_MeshPart0
+    4300022: hanging_light_MeshPart1
+    4300024: hanging_light_MeshPart2
+    4300026: painting02
+    4300028: painting01
+    4300030: painting03
+    4300032: center_table
+    4300034: curtain_01
+    4300036: window_frame
+    4300038: curtain_02
+    4300040: window_roof
+    4300042: curtain_03
+    4300044: left wall
+    4300046: book_01
+    4300048: single_seater_cushion01_back
+    4300050: single_seater_cushion01_front
+    4300052: single_seater_cushion02_front
+    4300054: single_seater_cushion02_back
+    4300056: single_seater_back
+    4300058: single_seater_seat
+    4300060: single_seater_backrest
+    4300062: single_seater_legs
+    4300064: single_seater_metal_balls
+    4300066: triple_seater_cushion02_front
+    4300068: triple_seater_cushion02_back
+    4300070: triple_seater_cushion01_back
+    4300072: triple_seater_cushion01_front
+    4300074: triple_seater_cushion04_back
+    4300076: triple_seater_cushion04_front
+    4300078: triple_seater_cushion05_back
+    4300080: triple_seater_cushion05_front
+    4300082: triple_seater_legs
+    4300084: triple_seater_backrest_MeshPart0
+    4300086: triple_seater_backrest_MeshPart1
+    4300088: triple_seater_back
+    4300090: triple_seater_metal_balls
+    4300092: triple_seater_cushion03
+    4300094: triple_seater_seat
+    4300096: double_seater_cushion01_back
+    4300098: double_seater_cushion01_front
+    4300100: double_seater_cushion02_front
+    4300102: double_seater_cushion02_back
+    4300104: double_seater_cushion03_front
+    4300106: double_seater_cushion03_back
+    4300108: double_seater_cushion04_back
+    4300110: double_seater_cushion04_front
+    4300112: double_seater_seat
+    4300114: double_seater_back
+    4300116: double_seater_legs
+    4300118: double_seater_metal_balls
+    4300120: double_seater_backrest
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
